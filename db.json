@@ -1,0 +1,32 @@
+{
+  "laptops": [
+    {
+      "model": "Lenevo",
+      "year": "2010",
+      "os": "windows",
+      "screenHeight": "16",
+      "screenWeidth": "24",
+      "price": "25000",
+      "id": "14d01d9f-e26e-4c89-92f5-0bce39002148"
+    },
+    {
+      "model": "Apple",
+      "year": "2022",
+      "os": "MAC",
+      "screenHeight": "11",
+      "screenWeidth": "15",
+      "price": "30000",
+      "id": "c20899bc-141a-46af-b15f-139799a98a47"
+    },
+    {
+      "model": "Asus",
+      "year": "2009",
+      "os": "Windows",
+      "screenHeight": "13",
+      "screenWeidth": "17",
+      "price": "40000",
+      "id": "b9745407-f293-4693-b24e-345b15a4b4da"
+    }
+   
+  ]
+}
