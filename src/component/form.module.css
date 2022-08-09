@@ -1,0 +1,11 @@
+.formDiv{
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding:10px 0 10px 20px; 
+    margin: auto;
+    width: 20%;
+    margin-top: 50px;
+    text-align: left;
+}
+.sort{
+    margin-top: 20px;
+}
